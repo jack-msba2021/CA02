@@ -25,7 +25,7 @@ from sklearn.metrics import accuracy_score
 ## Project File and Data
 You can access the [Project](https://colab.research.google.com/drive/1jX1oEV3FwhmYO7jaUhchNvEUBszmJckG?usp=sharing) through this link.
 
-Download the data here: [Data](https://github.com/ArinB/MSBA-CA01-Spam-Mail-Naibe-Bayes). 
+Download the data here: [Data](https://github.com/ArinB/MSBA-CA01-Spam-Mail-Naibe-Bayes) 
 
 ## Trouble Shooting
 Make sure to mount your drive before running the model.
